@@ -21,8 +21,13 @@ Feel free to reach out via email: 2033771388@qq.com
 ### 2026
 
 2026.1 \
+MobileSteelNet: A Lightweight Steel Surface Defect Classification Network with Cross-Interactive Efficient Multi-Scale Attention
+Xiang Zou, Zhongming Liu, Chengjun Xu, Jiawei Zhang, Zhaoyu Li <a href="https://github.com/DWlzm/MobileSteelNet"> </a>
+The paper wil come soon.
+
+2026.1 \
 Revisiting the Ordering of Channel and Spatial Attention: A Comprehensive Study on Sequential and Parallel Designs \
-Zhongming Liu, Bingbing Jiang \ <a href="https://arxiv.org/abs/2601.07310">PDF</a> <a href="https://github.com/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention">Code</a>
+**Zhongming Liu**, Bingbing Jiang  <a href="https://arxiv.org/abs/2601.07310">PDF</a> <a href="https://github.com/DWlzm/Revisiting-the-Ordering-of-Channel-and-Spatial-Attention">Code</a>
 
 
 ### 2025
