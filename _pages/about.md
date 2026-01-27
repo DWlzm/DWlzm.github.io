@@ -19,3 +19,8 @@ Feel free to reach out via email: 2033771388@qq.com
 
 ## Paper Publication
 
+### 2025
+
+2025.8
+SGMSNet: Spatial-Gated Memory Network for Chest X-ray Image Segmentation
+Zhongming, Liu and Huang, Xin and Li, Xiao and Zou, Xiang  <a href="https://ieeexplore.ieee.org/document/11239364">PDF</a> <a href="https://github.com/DWlzm/SGMSNet">Code</a>
