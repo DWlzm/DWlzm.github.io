@@ -14,6 +14,7 @@ My research interests lie in **Computer Vision**, with a particular focus on:
 - **Semantic Segmentation**
 - **Defect Segmentation**
 - **Medical Image Analysis**
+  
 Feel free to reach out via email: 2033771388@qq.com
 
 ## Paper Publication
