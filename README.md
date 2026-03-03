@@ -10,7 +10,7 @@ Feel free to reach out via email: 2033771388@qq.com.
 
 ### 2026
 
-2026.3\
+Now\
 One paper is submitted to **Signal, Image and Video Processing**.\
 One paper is submitted to **Neurocomputing** .\
 One paper is submitted to **IJCNN(CCFC)**.\
