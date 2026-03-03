@@ -16,7 +16,6 @@ Feel free to reach out via email: 2033771388@qq.com
 2026.1 \
 MobileSteelNet: A Lightweight Steel Surface Defect Classification Network with Cross-Interactive Efficient Multi-Scale Attention \
 Xiang Zou, **Zhongming Liu**, Chengjun Xu, Jiawei Zhang, Zhaoyu Li <a href="https://www.mdpi.com/1424-8220/26/3/1022">PDF</a> <a href="https://github.com/DWlzm/MobileSteelNet"> Code </a> \
-The paper wil come soon.
 
 2026.1 \
 Revisiting the Ordering of Channel and Spatial Attention: A Comprehensive Study on Sequential and Parallel Designs \
