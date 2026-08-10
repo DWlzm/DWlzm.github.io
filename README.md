@@ -24,3 +24,29 @@ Revisiting the Ordering of Channel and Spatial Attention: A Comprehensive Study 
 2025.8 \
 SGMSNet: Spatial-Gated Memory Network for Chest X-ray Image Segmentation \
 **Zhongming, Liu** and Huang, Xin and Li, Xiao and Zou, Xiang  <a href="https://ieeexplore.ieee.org/document/11239364">PDF</a> <a href="https://github.com/DWlzm/SGMSNet">Code</a>
+
+## Journal Reviewer
+2026.8  
+*Journal of King Saud University - Computer and Information Sciences* — Reviewer
+
+2026.8  
+*Signal, Image and Video Processing* — Reviewer
+
+2026.8  
+*Scientific Reports* — Reviewer 
+
+2026.7  
+*International Journal of Data Science and Analytics* — Reviewer
+
+2026.7  
+*Discover Applied Sciences* — Reviewer
+
+2026.7  
+*Multimedia Systems* — Reviewer
+
+2026.6  
+*Cluster Computing* — Reviewer
+
+2026.6  
+*Discover Artificial Intelligence* — Reviewer
+
